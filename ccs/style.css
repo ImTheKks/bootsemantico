@@ -7,5 +7,48 @@ body{
     background-color: aqua;
 }
 .cabeza{
+    background-color: azure;
+    height: 100px;
+    text-align: center;
+    border: 2px solid black;
+}
+.nave{
+    background-color: bisque;
+    height: 100px;
+    text-align: center;
+    border: 2px solid black;
+}
+.secccion{
+    background-color: brown;
+    height: 500px;
+    text-align: center;
+    border: 2px solid black;
+}
+.section{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.article{
+    border: 2px solid black;
+    height: 300px;
+    background-color:rgb(173, 69, 69);
+    text-align: center;
     
+}
+.aside{
+    border: 2px solid black;
+    text-align: center;
+    background-image: url(../images/ian.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.pie{
+    background-color: blue;
+    height: 200px;
+    text-align: center;
+    border: 2px solid black;
 }
