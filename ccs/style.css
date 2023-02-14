@@ -8,10 +8,10 @@ body{
 }
 .cabeza{
     background-color: azure;
-    height: 100px;
     text-align: center;
     border: 2px solid black;
 }
+
 .nave{
     background-color: bisque;
     height: 100px;
